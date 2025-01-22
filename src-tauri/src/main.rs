@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    follow_rs_lib::run()
+    daily_news_desktop_lib::run()
 }
